@@ -1,1 +1,1 @@
-{ "core": "mame2003_plus", "buildStart": "2026-05-17T17:23:54+00:00", "buildEnd": "2026-05-17T17:25:27+00:00", "options": {} }
+{ "core": "mame2003_plus", "buildStart": "2026-05-17T17:23:54+00:00", "buildEnd": "2026-05-17T17:25:27+00:00", "options": {"mame2003-plus_skip_disclaimer": "enabled", "mame2003-plus_skip_warnings": "enabled"}
