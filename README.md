@@ -1,7 +1,6 @@
+# NOTE: This repo uses a pre-release build of EmulatorJS. If you are using or forking this repo for your UBG website, you may want to test any game you use it on. Anything that points to this repo should be considered experimental.
 <div align="center">
-
-<img width="300" src="docs/Logo-light.png#gh-dark-mode-only" alt="EmulatorJS Dark Mode Logo">
-<img width="300" src="docs/Logo.png#gh-light-mode-only" alt="EmulatorJS Light Mode Logo">
+<img width="300" src="https://raw.githubusercontent.com/EmulatorJS/EmulatorJS/main/docs/Logo-light.png#gh-dark-mode-only">
 
 <br>
 
